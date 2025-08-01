@@ -1,0 +1,41 @@
+📁 dsa-topicwise/ — Data Structures & Algorithms (DSA)
+This folder is your coding interview preparation zone. It contains:
+
+✅ What we provide:
+📘 Topic-wise Notes: Arrays, Strings, Linked List, Trees, Graphs, DP, etc.
+
+✅ Solved Examples: With explanation and dry run
+
+⌨️ Code Implementations: In C++, Python, or Java
+
+🧠 Pattern-Based Approach (e.g., Sliding Window, Two Pointers)
+
+📌 LeetCode/GFG Problems: With direct links and solutions
+
+🧮 Time and Space Complexity Analysis
+
+📓 Interview Sheets: 450 DSA Sheet, Striver’s Sheet mapping
+
+📚 Topics Covered:
+Arrays and Matrix
+
+Strings and Hashing
+
+Searching and Sorting
+
+Recursion and Backtracking
+
+Linked List (Singly, Doubly, Circular)
+
+Stacks and Queues
+
+Binary Trees and Binary Search Trees
+
+Graphs (BFS, DFS, Union-Find, Dijkstra)
+
+Dynamic Programming
+
+Sliding Window, Greedy, Bit Manipulation
+
+Heaps, Tries, Hashmaps
+
